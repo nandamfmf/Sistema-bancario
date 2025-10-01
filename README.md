@@ -12,3 +12,5 @@ Este projeto implementa um sistema bancário simples em **C++**, com funcionalid
 - Paradigma: Programação Orientada a Objetos (POO)
 - Compilador: g++ 
 
+Aluna: Maria Fernanda Magalhães Freitas
+LP1
