@@ -8,6 +8,7 @@ Este projeto implementa um sistema bancário simples em **C++**, com funcionalid
 - Realizar saques  
 - Transferir valores entre contas  
 
+## Tecnologia utilizada
 - Linguagem: **C++**  
 - Programação Orientada a Objetos (POO)
 - Compilador: g++ 
