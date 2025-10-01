@@ -9,7 +9,7 @@ Este projeto implementa um sistema bancário simples em **C++**, com funcionalid
 - Transferir valores entre contas  
 
 - Linguagem: **C++**  
-- Paradigma: Programação Orientada a Objetos (POO)
+- Programação Orientada a Objetos (POO)
 - Compilador: g++ 
 
 Aluna: Maria Fernanda Magalhães Freitas
