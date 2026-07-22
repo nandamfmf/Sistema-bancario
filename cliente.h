@@ -13,7 +13,6 @@ class Cliente{
     string getCPF();
     string getNome();
 
-    // Setters que definem os atributos privados como Nome e CPF para serem utilizados.
     void setCPF(string cpf){
         CPF = cpf;
     };
