@@ -17,7 +17,7 @@ class Conta{
         numero = Numero;
     };
     void setSaldo(double saldo){
-        Saldo = saldo;;
+        Saldo = saldo;
     };
     void setTitular(Cliente titular){
         Titular = titular;
