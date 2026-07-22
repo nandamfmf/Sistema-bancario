@@ -5,7 +5,6 @@ using namespace std;
 #include "cliente.h"
 
 int main(){
-// Define três clientes diferentes. 
     Cliente cliente1;
     cliente1.setNome("Ana");
     cliente1.setCPF("123.330.789-10");
@@ -18,7 +17,6 @@ int main(){
     cliente3.setNome("Pedro");
     cliente3.setCPF("237.613.121-00");
 
-// Cria três contas associadas aos clientes definidos acima.
     Conta conta1;
     conta1.setNumero(101);
     conta1.setSaldo(1000);
@@ -34,7 +32,6 @@ int main(){
     conta3.setSaldo(3000);
     conta3.setTitular(cliente3);
 
-// Mostra as informações de cada conta, além de realizar as operações bancárias e mostrar os saldos atualizados.
     cout << "Conta 1 Info: ";
     conta1.exibirInfo();
     cout << endl << "Conta 2 Info: ";
