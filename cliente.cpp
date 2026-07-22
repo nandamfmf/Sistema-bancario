@@ -7,7 +7,6 @@ Cliente::Cliente(){
     string cpf = CPF;
 };
 
-// Getters que retornam os atributos privados da classe Cliente.
 string Cliente::getCPF(){
     return CPF;
 };
