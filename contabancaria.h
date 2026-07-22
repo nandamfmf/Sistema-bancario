@@ -13,7 +13,6 @@ class Conta{
     public:
     Conta();
 
-    // Setters que definem os atributos privados da conta para serem utilizados.
     void setNumero(int numero){
         numero = Numero;
     };
